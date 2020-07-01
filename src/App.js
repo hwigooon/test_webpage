@@ -1,12 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
+import hdh from './HDH.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={hdh} className="App-logo" alt="hdh" />
         <p>
           현뚱이 돌아간다아ㅏㅏㅏㅏㅏㅏㅏㅏㅏ 빠죠든다아ㅏㅏㅏ
         </p>

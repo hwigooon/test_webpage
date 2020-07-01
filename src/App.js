@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          현뚱이 돌아간다아ㅏㅏㅏㅏㅏㅏㅏㅏㅏ
+          리액트JS 돌아간다아ㅏㅏㅏㅏㅏㅏㅏ
         </p>
         <a
           className="App-link"
